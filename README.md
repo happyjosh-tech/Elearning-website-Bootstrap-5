@@ -3,7 +3,7 @@ An open source E-learning website template built with Bootstrap 5
 
 This Template is available for you to clone and use.
 
-### Screenshots
+### Watch Video here
 
 https://screenapp.io/a0d0598b-6c31-490e-bcf7-4e038a68f0bb
 
